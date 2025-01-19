@@ -63,7 +63,7 @@ nano yourname.md
 
    - Nhấn vào hình 👤 → **Login với GitHub**.
    - Click vào **Profile** → **Edit** → Kéo xuống kết nối ví EVM và Google.
-   - Làm Quiz 1: **[Link Quiz](https://openbuild.xyz/quiz/202501081)**.
+   - Làm Quiz 1: **[Link Quiz 1 - 10](https://openbuild.xyz/quiz?uid=39547)**. Đáp án ghi đầy đủ trong file `.txt`
    - Xong, chụp ảnh lại điểm số.
 
 8. Quay lại GitHub, gõ các lệnh sau:
